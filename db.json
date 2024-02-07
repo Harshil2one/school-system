@@ -1,0 +1,753 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Harshil",
+      "name": "Babariya Harshil",
+      "email": "harshil.babariya@tatvasoft.com",
+      "password": "Harshil@01",
+      "teacher_id": "T0123",
+      "post": "Teacher of Maths",
+      "role": 1,
+      "mobile": "6353817930",
+      "standard": "12",
+      "division": "C",
+      "mentor": "Punit Superstar",
+      "address": "New plot, Kathrota",
+      "city": "Junagadh",
+      "state": "GJ",
+      "country": "IND",
+      "zipCode": "362315",
+      "degree": "BE",
+      "experience": "2",
+      "awards": 52,
+      "departments": 11,
+      "classData": [
+        {
+          "class": 1,
+          "division": "B",
+          "student": 12,
+          "taken_classes": 22,
+          "missed_classes": 1
+        },
+        {
+          "class": 10,
+          "division": "D",
+          "student": 2,
+          "taken_classes": 19,
+          "missed_classes": 4
+        },
+        {
+          "class": 11,
+          "division": "C",
+          "student": 4,
+          "taken_classes": 21,
+          "missed_classes": 2
+        },
+        {
+          "class": 1,
+          "division": "F",
+          "student": 20,
+          "taken_classes": 20,
+          "missed_classes": 3
+        },
+        {
+          "class": 1,
+          "division": "D",
+          "student": 14,
+          "taken_classes": 21,
+          "missed_classes": 2
+        },
+        {
+          "class": 3,
+          "division": "D",
+          "student": 22,
+          "taken_classes": 19,
+          "missed_classes": 4
+        },
+        {
+          "class": 1,
+          "division": "C",
+          "student": 15,
+          "taken_classes": 23,
+          "missed_classes": 0
+        },
+        {
+          "class": 4,
+          "division": "E",
+          "student": 20,
+          "taken_classes": 20,
+          "missed_classes": 3
+        },
+        {
+          "class": 1,
+          "division": "A",
+          "student": 12,
+          "taken_classes": 22,
+          "missed_classes": 1
+        },
+        {
+          "class": 6,
+          "division": "D",
+          "student": 2,
+          "taken_classes": 19,
+          "missed_classes": 4
+        },
+        {
+          "class": 7,
+          "division": "C",
+          "student": 4,
+          "taken_classes": 21,
+          "missed_classes": 2
+        },
+        {
+          "class": 1,
+          "division": "E",
+          "student": 20,
+          "taken_classes": 20,
+          "missed_classes": 3
+        },
+        {
+          "class": 9,
+          "division": "A",
+          "student": 12,
+          "taken_classes": 22,
+          "missed_classes": 1
+        },
+        {
+          "class": 12,
+          "division": "D",
+          "student": 2,
+          "taken_classes": 19,
+          "missed_classes": 4
+        },
+        {
+          "class": 10,
+          "division": "C",
+          "student": 4,
+          "taken_classes": 21,
+          "missed_classes": 2
+        },
+        {
+          "class": 12,
+          "division": "E",
+          "student": 20,
+          "taken_classes": 20,
+          "missed_classes": 3
+        }
+      ],
+      "profile_img": "blob:http://localhost:3000/8e733b7c-d331-4063-b3f3-160c38445451"
+    },
+    {
+      "id": 2,
+      "enroll_no": "953324852144",
+      "username": "Pradip",
+      "name": "Pradip Satasiya",
+      "email": "pradip.satasiya@tatvasoft.com",
+      "password": "Pradip@01",
+      "role": 2,
+      "mobile": "9714004984",
+      "standard": "11",
+      "division": "E",
+      "class_strength": 150,
+      "mentor": "Elon Musk",
+      "address": "A-102, Facing East, South Bopal",
+      "city": "Ahmedabad",
+      "state": "GJ",
+      "country": "IND",
+      "zipCode": "380058",
+      "attendance": 22,
+      "leaves": 2,
+      "rank": 9,
+      "completed_projects": 2,
+      "achievements": 4,
+      "attempted_tests": 20,
+      "total_tests": 24,
+      "subjectReport": [
+        {
+          "subject": "Biology",
+          "mark": 88
+        },
+        {
+          "subject": "Physics",
+          "mark": 59
+        },
+        {
+          "subject": "Chemistry",
+          "mark": 63
+        },
+        {
+          "subject": "Gujarati",
+          "mark": 70
+        }
+      ],
+      "profile_img": "blob:http://localhost:3000/088cf88c-7edc-4225-b00e-fe90b3b4721c"
+    },
+    {
+      "name": "Kenil babariya",
+      "city": "Jungadh",
+      "standard": "10",
+      "division": "A",
+      "id": 3,
+      "enroll_no": "",
+      "username": "",
+      "email": "kenil.babariya@tatvasoft.com",
+      "password": "TempPass@01",
+      "role": 2,
+      "mobile": "9638162296",
+      "class_strength": 0,
+      "mentor": "Jinal Patel",
+      "address": "Kathrota",
+      "state": "GJ",
+      "country": "IND",
+      "zipCode": "362315",
+      "attendance": 17,
+      "leaves": 5,
+      "rank": 0,
+      "completed_projects": 17,
+      "achievements": 2,
+      "attempted_tests": 18,
+      "total_tests": 25,
+      "subjectReport": [
+        {
+          "subject": "Biology",
+          "mark": 33
+        },
+        {
+          "subject": "Physics",
+          "mark": 54
+        },
+        {
+          "subject": "Chemistry",
+          "mark": 63
+        },
+        {
+          "subject": "English",
+          "mark": 76
+        }
+      ],
+      "profile_img": "blob:http://localhost:3000/088cf88c-7edc-4225-b00e-fe90b3b4721c"
+    },
+    {
+      "name": "test",
+      "email": "test.test@gmail.com",
+      "password": "TempPass@02",
+      "standard": "3",
+      "division": "B",
+      "city": "",
+      "enroll_no": "",
+      "username": "",
+      "role": 2,
+      "mobile": "",
+      "class_strength": 0,
+      "mentor": "",
+      "address": "",
+      "state": "",
+      "country": "IND",
+      "zipCode": "",
+      "attendance": 12,
+      "leaves": 11,
+      "rank": 0,
+      "subjectReport": [
+        {
+          "subject": "Maths",
+          "mark": 67
+        },
+        {
+          "subject": "Physics",
+          "mark": 99
+        },
+        {
+          "subject": "Chemistry",
+          "mark": 37
+        },
+        {
+          "subject": "Gujarati",
+          "mark": 70
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "dd",
+      "email": "d",
+      "password": "d",
+      "standard": "5",
+      "division": "A",
+      "city": "",
+      "enroll_no": "57398360907",
+      "username": "dd",
+      "role": 2,
+      "mobile": "",
+      "class_strength": 244,
+      "mentor": "Babariya Harshil",
+      "address": "",
+      "state": "",
+      "country": "IND",
+      "zipCode": "",
+      "attendance": 18,
+      "leaves": 4,
+      "rank": 18,
+      "subjectReport": [],
+      "id": 5
+    }
+  ],
+  "classes": [
+    {
+      "value": 1,
+      "label": "1st"
+    },
+    {
+      "value": 2,
+      "label": "2nd"
+    },
+    {
+      "value": 3,
+      "label": "3rd"
+    },
+    {
+      "value": 4,
+      "label": "4th"
+    },
+    {
+      "value": 5,
+      "label": "5th"
+    },
+    {
+      "value": 6,
+      "label": "6th"
+    },
+    {
+      "value": 7,
+      "label": "7th"
+    },
+    {
+      "value": 8,
+      "label": "8th"
+    },
+    {
+      "value": 9,
+      "label": "9th"
+    },
+    {
+      "value": 10,
+      "label": "10th"
+    },
+    {
+      "value": 11,
+      "label": "11th"
+    },
+    {
+      "value": 12,
+      "label": "12th"
+    }
+  ],
+  "divisions": [
+    {
+      "value": "A",
+      "label": "A"
+    },
+    {
+      "value": "B",
+      "label": "B"
+    },
+    {
+      "value": "C",
+      "label": "C"
+    },
+    {
+      "value": "D",
+      "label": "D"
+    },
+    {
+      "value": "E",
+      "label": "E"
+    },
+    {
+      "value": "F",
+      "label": "F"
+    }
+  ],
+  "degree": [
+    {
+      "value": 1,
+      "label": "BE"
+    },
+    {
+      "value": 2,
+      "label": "B Tech"
+    },
+    {
+      "value": 3,
+      "label": "ME"
+    },
+    {
+      "value": 4,
+      "label": "B Ed"
+    },
+    {
+      "value": 5,
+      "label": "12th"
+    }
+  ],
+  "states": [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "state_code": "AN"
+    },
+    {
+      "name": "Andhra Pradesh",
+      "state_code": "AP"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "state_code": "AR"
+    },
+    {
+      "name": "Assam",
+      "state_code": "AS"
+    },
+    {
+      "name": "Bihar",
+      "state_code": "BR"
+    },
+    {
+      "name": "Chandigarh",
+      "state_code": "CH"
+    },
+    {
+      "name": "Chhattisgarh",
+      "state_code": "CT"
+    },
+    {
+      "name": "Dadra and Nagar Haveli",
+      "state_code": "DN"
+    },
+    {
+      "name": "Daman and Diu",
+      "state_code": "DD"
+    },
+    {
+      "name": "Delhi",
+      "state_code": "DL"
+    },
+    {
+      "name": "Goa",
+      "state_code": "GA"
+    },
+    {
+      "name": "Gujarat",
+      "state_code": "GJ"
+    },
+    {
+      "name": "Haryana",
+      "state_code": "HR"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "state_code": "HP"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "state_code": "JK"
+    },
+    {
+      "name": "Jharkhand",
+      "state_code": "JH"
+    },
+    {
+      "name": "Karnataka",
+      "state_code": "KA"
+    },
+    {
+      "name": "Kerala",
+      "state_code": "KL"
+    },
+    {
+      "name": "Ladakh",
+      "state_code": "LA"
+    },
+    {
+      "name": "Lakshadweep",
+      "state_code": "LD"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "state_code": "MP"
+    },
+    {
+      "name": "Maharashtra",
+      "state_code": "MH"
+    },
+    {
+      "name": "Manipur",
+      "state_code": "MN"
+    },
+    {
+      "name": "Meghalaya",
+      "state_code": "ML"
+    },
+    {
+      "name": "Mizoram",
+      "state_code": "MZ"
+    },
+    {
+      "name": "Nagaland",
+      "state_code": "NL"
+    },
+    {
+      "name": "Odisha",
+      "state_code": "OR"
+    },
+    {
+      "name": "Puducherry",
+      "state_code": "PY"
+    },
+    {
+      "name": "Punjab",
+      "state_code": "PB"
+    },
+    {
+      "name": "Rajasthan",
+      "state_code": "RJ"
+    },
+    {
+      "name": "Sikkim",
+      "state_code": "SK"
+    },
+    {
+      "name": "Tamil Nadu",
+      "state_code": "TN"
+    },
+    {
+      "name": "Telangana",
+      "state_code": "TG"
+    },
+    {
+      "name": "Tripura",
+      "state_code": "TR"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "state_code": "UP"
+    },
+    {
+      "name": "Uttarakhand",
+      "state_code": "UT"
+    },
+    {
+      "name": "West Bengal",
+      "state_code": "WB"
+    }
+  ],
+  "country": [
+    {
+      "name": "India",
+      "country_code": "IND"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Maths",
+      "code": "SUB352",
+      "priority": "5",
+      "expert": "Babariya Harshil",
+      "students": [2, 4],
+      "reports": [
+        {
+          "subjectId": 1,
+          "studentId": 2,
+          "marks": { "prelims": 95, "intermediate": 40, "main": 68 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        },
+        {
+          "subjectId": 1,
+          "studentId": 4,
+          "marks": { "prelims": 75, "intermediate": 44, "main": 88 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "priority": "6",
+      "code": "SUB125",
+      "id": 2,
+      "expert": "Babariya Harshil",
+      "students": [2, 3, 4],
+      "reports": [
+        {
+          "subjectId": 2,
+          "studentId": 2,
+          "marks": { "prelims": 67, "intermediate": 56, "main": 78 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        },
+        {
+          "subjectId": 2,
+          "studentId": 3,
+          "marks": { "prelims": 66, "intermediate": 56, "main": 76 },
+          "remarks": {
+            "prelims": "Give more importance",
+            "intermediate": "",
+            "main": ""
+          }
+        },
+        {
+          "subjectId": 2,
+          "studentId": 4,
+          "marks": { "prelims": 58, "intermediate": 44, "main": 79 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "priority": "10",
+      "code": "SUB523",
+      "id": 3,
+      "expert": "Teacher 2",
+      "students": [2, 3, 4],
+      "reports": [
+        {
+          "subjectId": 3,
+          "studentId": 2,
+          "marks": { "prelims": 67, "intermediate": 56, "main": 78 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        },
+        {
+          "subjectId": 3,
+          "studentId": 3,
+          "marks": { "prelims": 67, "intermediate": 56, "main": 78 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        },
+        {
+          "subjectId": 3,
+          "studentId": 4,
+          "marks": { "prelims": 72, "intermediate": 50, "main": 88 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "priority": "2",
+      "code": "SUB745",
+      "id": 4,
+      "expert": "Teacher 1",
+      "students": [3],
+      "reports": [
+        {
+          "subjectId": 4,
+          "studentId": 3,
+          "marks": { "prelims": 67, "intermediate": 56, "main": 78 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        }
+      ]
+    },
+    {
+      "name": "Gujarati",
+      "priority": "7",
+      "code": "SUB557",
+      "id": 5,
+      "expert": "Babariya Harshil",
+      "students": [2],
+      "reports": [
+        {
+          "subjectId": 5,
+          "studentId": 2,
+          "marks": { "prelims": 67, "intermediate": 56, "main": 78 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        }
+      ]
+    },
+    {
+      "name": "Computer",
+      "priority": "3",
+      "code": "SUB010",
+      "id": 6,
+      "expert": "Teacher 2",
+      "students": [2],
+      "reports": [
+        {
+          "subjectId": 6,
+          "studentId": 2,
+          "marks": { "prelims": 76, "intermediate": 48, "main": 83 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        }
+      ]
+    },
+    {
+      "name": "Biology",
+      "priority": "3",
+      "code": "SUB912",
+      "id": 7,
+      "expert": "Babariya Harshil",
+      "students": [3],
+      "reports": [
+        {
+          "subjectId": 7,
+          "studentId": 3,
+          "marks": { "prelims": 67, "intermediate": 56, "main": 78 },
+          "remarks": { "prelims": "", "intermediate": "", "main": "" }
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": 2,
+      "name": "Pradip Satasiya",
+      "email": "pradip.satasiya@tatvasoft.com",
+      "password": "Pradip@01",
+      "standard": "11",
+      "division": "E"
+    },
+    {
+      "name": "Kenil babariya",
+      "email": "kenil.babariya@tatvasoft.com",
+      "password": "TempPass@01",
+      "standard": "10",
+      "division": "A",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "test.test@gmail.com",
+      "password": "TempPass@02",
+      "standard": "3",
+      "division": "B",
+      "id": 4
+    },
+    {
+      "name": "dd",
+      "email": "d",
+      "password": "d",
+      "standard": "5",
+      "division": "A",
+      "id": 5
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Babariya Harshil",
+      "email": "harshil.babariya@tatvasoft.com"
+    },
+    {
+      "id": 2,
+      "name": "Teacher 1",
+      "email": "teacher.1@tatvasoft.com"
+    },
+    {
+      "id": 3,
+      "name": "Teacher 2",
+      "email": "teacher.2@tatvasoft.com"
+    },
+    {
+      "id": 4,
+      "name": "Teacher 3",
+      "email": "teacher.3@tatvasoft.com"
+    }
+  ]
+}
